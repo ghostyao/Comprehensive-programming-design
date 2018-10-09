@@ -1,2 +1,8 @@
 # Comprehensive-programming-design
-During this course, we learned the data structure such as: array, list, stack, set, tree; finish the program of Eight queens puzzle and Huffman coding.
+This collection is created to organize my codes in the data structure course, which includes the codes for 
+--array
+--list
+--stack
+--tree
+--the program of Eight queens puzzle 
+--Huffman coding
